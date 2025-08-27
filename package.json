@@ -1,0 +1,13 @@
+{
+  "name": "mi-api-de-juego",
+  "version": "1.0.0",
+  "description": "API para Pocket Code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase-admin": "^11.0.0"
+  }
+}
